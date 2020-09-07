@@ -1,0 +1,9 @@
+C:\Users\Ahmet Mete\source\repos\G191210053_Proje\G191210053_Proje\bin\Debug\G191210053_Proje.exe.config
+C:\Users\Ahmet Mete\source\repos\G191210053_Proje\G191210053_Proje\bin\Debug\G191210053_Proje.exe
+C:\Users\Ahmet Mete\source\repos\G191210053_Proje\G191210053_Proje\bin\Debug\G191210053_Proje.pdb
+C:\Users\Ahmet Mete\source\repos\G191210053_Proje\G191210053_Proje\obj\Debug\G191210053_Proje.csprojAssemblyReference.cache
+C:\Users\Ahmet Mete\source\repos\G191210053_Proje\G191210053_Proje\obj\Debug\G191210053_Proje.Form1.resources
+C:\Users\Ahmet Mete\source\repos\G191210053_Proje\G191210053_Proje\obj\Debug\G191210053_Proje.Properties.Resources.resources
+C:\Users\Ahmet Mete\source\repos\G191210053_Proje\G191210053_Proje\obj\Debug\G191210053_Proje.csproj.GenerateResource.cache
+C:\Users\Ahmet Mete\source\repos\G191210053_Proje\G191210053_Proje\obj\Debug\G191210053_Proje.exe
+C:\Users\Ahmet Mete\source\repos\G191210053_Proje\G191210053_Proje\obj\Debug\G191210053_Proje.pdb
